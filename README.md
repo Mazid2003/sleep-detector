@@ -7,4 +7,4 @@ detection.py is a file which consists of python file.
 
 How it works:
 
-whenever the driver or a person who is driving the car, if he/she feels drowsy, they cannot control the motion of the vehicle. At that movement or system activates and a buzzer sound will activate to alert the person by reducing the  speed of the vehicle
+whenever the driver or a person who is driving the car, if he/she feels drowsy, they cannot handle the steering and cannot control the motion of the vehicle. At that movement or system activates and a buzzer sound will activate to alert the person by reducing the  speed of the vehicle
