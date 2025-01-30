@@ -1,10 +1,29 @@
-Sleep detector is a hardware project which is used to avoid the drowsiness of the driver by using this system we can reduce accidents. In this project, we have used arduino uno micro controller and python. Open CV is a library in python which is used to real time detection.
+**🛑 Sleep Detector – Driver Drowsiness Prevention System**
 
+A hardware-based safety system designed to prevent driver drowsiness and reduce road accidents. This project utilizes Arduino Uno, Python, and OpenCV to detect signs of drowsiness in real time and trigger an alert mechanism.
 
-arduino.ino is a file which consists of arduino code.
+**✨ Features:**
 
-detection.py is a file which consists of python file.
+✅ Real-time Drowsiness Detection using OpenCV
+✅ Buzzer Alert System to wake the driver
+✅ Speed Reduction Mechanism for enhanced safety
+✅ Arduino Uno Microcontroller for hardware integration
 
-How it works:
+**🔧 Technologies Used:**
 
-whenever the driver or a person who is driving the car, if he/she feels drowsy, they cannot handle the steering and cannot control the motion of the vehicle. At that movement or system activates and a buzzer sound will activate to alert the person by reducing the  speed of the vehicle
+Arduino Uno for microcontroller operations
+Python & OpenCV for real-time face detection
+Buzzer & Actuators for alert and safety mechanisms
+
+**📂 Repository Contents:**
+
+arduino.ino – Contains Arduino code for hardware control
+detection.py – Python script for real-time drowsiness detection
+
+**🚀 How It Works:**
+
+1️⃣ The system continuously monitors the driver's face using OpenCV.
+2️⃣ If drowsiness is detected, an alert buzzer activates.
+3️⃣ The system can also reduce vehicle speed to prevent accidents.
+
+This project aims to enhance road safety by preventing accidents caused by driver fatigue. 🚗⚠️
