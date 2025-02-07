@@ -1,4 +1,4 @@
-**🛑 Sleep Detector – Driver Drowsiness Prevention System**
+# 🛑 Sleep Detector – Driver Drowsiness Prevention System
 
 A hardware-based safety system designed to prevent driver drowsiness and reduce road accidents. This project utilizes Arduino Uno, Python, and OpenCV to detect signs of drowsiness in real time and trigger an alert mechanism.
 
