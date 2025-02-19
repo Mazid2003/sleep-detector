@@ -1,7 +1,12 @@
-opencv-python
-Arduino uno board
-Buzzer
-webcam
+🛠 Components Required:
+
+OpenCV
+1️⃣ Arduino Uno – Microcontroller to control the buzzer and vehicle speed reduction mechanism.
+2️⃣ Buzzer – To alert the driver when drowsiness is detected.
+3️⃣ Webcam – To capture the driver’s face in real-time.
+4️⃣ Resistors (1KΩ, 220Ω) – If needed for connections.
+5️⃣ LED (optional) – To visually indicate drowsiness detection.
+6️⃣ Motor Driver (optional) – If you want to integrate a speed reduction mechanism.
 
 Explanation:
 
