@@ -36,6 +36,10 @@ detection.py – Python script for real-time drowsiness detection
 
 This project aims to enhance road safety by preventing accidents caused by driver fatigue. 🚗⚠️
 
+**💬 Want to Collaborate?**
+
+Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
+
 **📜 License**
 
 This project is open-source under the MIT License. Feel free to use and
